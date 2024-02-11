@@ -2,10 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-<h3> CompTIA A+ Labs :</h3>
-
-<h3> Windows Server Administration :</h3>
-
 <h3> Active Directory and osTicket Projects:</h3>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -15,6 +11,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/El-Kari/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/El-Kari/azure-network-protocols)
+
+<h3> CompTIA A+ Labs :</h3>
+
+<h3> Windows Server Administration :</h3>
 
 <h2>👨‍💻 Programming Projects:</h2>
 
